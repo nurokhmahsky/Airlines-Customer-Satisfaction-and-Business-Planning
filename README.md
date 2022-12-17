@@ -57,6 +57,7 @@ dari correlation heatmap diatas dapat dilihat Arrival Delay in Minutes dan Depar
 
 ## Modelling
 Modelling – Random Forest
+
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112957682/208232149-e85ca11e-68c7-4568-a204-ce43836b3c74.png">
 
 hasil analisis:
